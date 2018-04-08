@@ -10,9 +10,9 @@ mount -o remount,size=1G /run/archiso/cowspace
  set keyboard language ( temporary )
 ##############################################
 now set the keymaps/keybord
-loadkeys us
+loadkeys us    # for an English keyboard
 # or
-loadkeys es
+loadkeys es    # for a Spanish keyboard
 
 
 (3-A)
