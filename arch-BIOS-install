@@ -119,7 +119,7 @@ pacman -S dialog grub grub-bios linux-headers linux-lts linux-lts-headers wpa_su
 ################################
 
 
-(10)
+(10-A)
  now to set your locale/your language
 ################################
 
@@ -228,3 +228,6 @@ reboot
 For Questions or Comments
 You can contact me at 
 eliasw4u@gmail.com
+
+if you would like to donate
+https://www.paypal.me/eliwal
